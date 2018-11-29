@@ -17,7 +17,7 @@
   "license": "MIT",
   "dependencies": {
     "spawn-command": "^0.0.2-1",
-    "ps-tree": "1.2.0"
+    "ps-tree": "^1.2.0"
   },
   "devDependencies": {
     "all-contributors-cli": "^3.0.6",
